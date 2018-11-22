@@ -34,7 +34,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container text-center">
-  <img src="Profil.Jpeg" width="23%" class="profile-thumbnail rounded-circle">
+  <img src="Tokoonline/Profil.Jpeg" width="23%" class="profile-thumbnail rounded-circle">
     <p class="text-primary">
   <h1 class="display-4">Rangga Momogi</h1>
     <p class="lead">
