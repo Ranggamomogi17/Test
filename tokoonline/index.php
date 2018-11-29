@@ -41,6 +41,106 @@
     </P>
   </div>
 </div>
+<section id="about" class="about bg-light">
+<div class="container">
+    <div class="row mb-4 text-center">
+        <div class="col-sm">
+            <h2 >
+                # ABOUT #
+            </h2>
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-sm-5 text-justify">
+        Perkenankanlah kami dalam kesempatan ini untuk memperkenalkan diri, Rumah Bisnisku~ , Sebagai perusahaan yang bergerak dibidang “Fashion” Untuk produk-produk seperti Sepatu-Sepatu Branded, Tas Brended,Baju Kaos Branded,Celana Branded, Jaket Branded, dan lain Sebagainya.<br>
+        Showroom produk kami  berlokasi di :<br>
+        Jl. Wonerejo rt 03 rw 04 Kel. Arjowinangun Kec Kedungkandang Malang  ( Gadang – Malang ).   
+        </div>
+        <div class="col-sm-5 mb-5 text-justify">
+         Untuk penjelasan produk lebih lanjut, kami dapat dihubungi di 
+         Nomor Telephone/Hp : 0896 - 8653 - 1630 <br>
+         E-mail : Ranggamomogi17@gmail.com <br>
+         Atas perhatian dan waktu yang telah diluangkan, tak lupa kami ucapkan Terima Kasih. Besar Harapan Kami  bahwa perkenalan ini dapat menjadi awal dari kerjasama kita.
+
+        </div>
+    </div>
+</div>
+</section>
+
+
+<div class="container">
+    <div class="row mb-3">
+        <div class="col text-center">
+            <h2>
+                <p class="text-warning">
+                    # PRODUK #
+                </p>    
+            </h2>
+        </div>
+    </div>
+
+   <div class="row mb-3">
+        <div class="col-sm">
+            <div class="card">
+                <img class="card-img-top" src="sepatubranded.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text text-center">
+                        Sepatu Sneakers <br> 
+                        Ukuran 37 - 45 <br>
+                        Harga Rp 350.000,00 
+                    </p>
+                </div>    
+            </div>  
+        </div>
+        <div class="col-sm">
+            <div class="card">
+                <img class="card-img-top" src="tasbranded.jpg"alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text text-center">
+                        Tas Backpack <br> 
+                        Rp 250.000,00
+                    </p>
+                </div>    
+            </div>  
+        </div>
+        <div class="col-sm">
+            <div class="card">
+                <img class="card-img-top" src="kaosbranded.jpg"alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text text-center">
+                        Kaos Superman <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 150.000,00
+                    </p>
+                </div>    
+            </div>  
+        </div>
+        <div class="col-sm">
+            <div class="card">
+                <img class="card-img-top" src="celanabranded.jpg"alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text text-center">
+                        Celana Jeans <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 250.000,00
+                    </p>
+                </div>    
+            </div>  
+        </div>
+        <div class="col-sm">
+            <div class="card">
+                <img class="card-img-top" src="jacketbranded.jpg"alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text text-center">
+                        Jacket <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 300.000,00
+                    </p>
+                </div>    
+            </div>  
+        </div>
+     </div>
 
 
 
