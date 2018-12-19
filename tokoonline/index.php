@@ -23,7 +23,7 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="#">Database</a>
+      <a class="nav-item nav-link" href="#">Login</a>
       <a class="nav-item nav-link" href="#">Laporan Rugi - Laba</a>
       <a class="nav-item nav-link disabled" href="#">Disabled</a>
     </div>
