@@ -75,6 +75,8 @@
             <h2>
                 <p class="text-warning">
                     # PRODUK #
+                    <marquee behavior="scroll">Untuk Pemesanan Hubungi 0896-8653-1630 </marquee>
+                    <marquee behavior="alternate">Rumah Bisnisku~ </marquee>
                 </p>    
             </h2>
         </div>
@@ -98,15 +100,35 @@
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
                 <img class="d-block img-fluid" src="Sepatu1.jpg" alt="First slide">
+                <p class="card-text text-center">
+                        Sepatu Sneakers Wanita <br> 
+                        Warna Pink <br>
+                        Ukuran 37 - 45 <br>
+                        Harga Rp 350.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="Sepatu2.jpg" alt="Second slide">
+                <p class="card-text text-center">
+                        Sepatu Sneakers <br>
+                        Warna Putih n Hitam <br> 
+                        Ukuran 37 - 45 <br>
+                        Harga Rp 350.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="Sepatu3.jpg" alt="Third slide">
+                <p class="card-text text-center">
+                        Sepatu Sneakers <br>
+                        Warna Hitam <br>  
+                        Ukuran 37 - 45 <br>
+                        Harga Rp 350.000,00
                 </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="Sepatu4.jpg" alt="Fourth slide">
+                <p class="card-text text-center">
+                        Sepatu Sneakers <br>
+                        Warna Coklat <br>   
+                        Ukuran 37 - 45 <br>
+                        Harga Rp 350.000,00
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -139,15 +161,31 @@
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
                 <img class="d-block img-fluid" src="TasBackpack1.jpg" alt="First slide">
+                <p class="card-text text-center">
+                        Tas Backpack <br>
+                        Warna Abu-abu <br> 
+                        Rp 250.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="TasBackpack2.jpg" alt="Second slide">
+                <p class="card-text text-center">
+                        Tas Backpack <br>
+                        Warna Hitam n coklat <br> 
+                        Rp 250.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="TasBackpack3.jpg" alt="Third slide">
+                <p class="card-text text-center">
+                        Tas Backpack <br>
+                        Warna Abu-abu <br> 
+                        Rp 250.000,00
                 </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="TasBackpack4.jpg" alt="Fourth slide">
+                <p class="card-text text-center">
+                        Tas Backpack <br>
+                        Warna Coklat <br> 
+                        Rp 250.000,00
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -168,7 +206,7 @@
                 <img class="card-img-top" src="kaosbranded.jpg"alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text text-center">
-                        Kaos Superman <br> 
+                        Kaos Superman <br>    
                         Ukuran S - M - L - XL <br>
                         Harga Rp 150.000,00
                 <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
@@ -181,15 +219,35 @@
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
                 <img class="d-block img-fluid" src="Kaos1.jpg" alt="First slide">
+                <p class="card-text text-center">
+                        Kaos BlackAces <br>
+                        Semua Warna <br>   
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 150.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="Kaos2.jpg" alt="Second slide">
+                <p class="card-text text-center">
+                        Kaos Jepang <br>
+                        Semua Warna <br>   
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 150.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="Kaos3.jpg" alt="Third slide">
+                <p class="card-text text-center">
+                        Kaos Adidas Original <br>
+                        Semua Warna <br>   
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 150.000,00
                 </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="Kaos4.jpg" alt="Fourth slide">
+                <p class="card-text text-center">
+                        Kaos Adidas <br>
+                        Semua Warna <br>   
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 150.000,00
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -223,15 +281,35 @@
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
                 <img class="d-block img-fluid" src="celana1.jpg" alt="First slide">
+                <p class="card-text text-center">
+                        Celana Training <br>
+                        Warna Hitam <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 250.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="celana2.jpg" alt="Second slide">
+                <p class="card-text text-center">
+                        Celana Jeans <br>
+                        Warna Biru <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 250.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="celana3.jpg" alt="Third slide">
+                <p class="card-text text-center">
+                        Celana Jeans <br>
+                        Warna Hitam <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 250.000,00
                 </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="celana4.jpg" alt="Fourth slide">
+                <p class="card-text text-center">
+                        Celana Jeans <br>
+                        Warna Biru Dongker <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 250.000,00
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -255,7 +333,7 @@
                         Jacket <br> 
                         Ukuran S - M - L - XL <br>
                         Harga Rp 300.000,00
-                        <div class="col-lg-9">
+                        
 
           <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -267,15 +345,35 @@
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
                 <img class="d-block img-fluid" src="jacket1.jpg" alt="First slide">
+                <p class="card-text text-center">
+                        Jacket <br>
+                        Warna Hitam <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 300.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="jacket2.jpg" alt="Second slide">
+                <p class="card-text text-center">
+                        Jacket <br>
+                        Warna Biru Dongker <br> 
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 300.000,00
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="Jacket3.jpg" alt="Third slide">
+                <p class="card-text text-center">
+                        Jacket <br> 
+                        Warna Putih <br>
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 300.000,00
                 </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="Jacket4.jpg" alt="Fourth slide">
+                <p class="card-text text-center">
+                        Jacket Jeans<br> 
+                        Warna Biru <br>
+                        Ukuran S - M - L - XL <br>
+                        Harga Rp 300.000,00
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
